@@ -1,0 +1,18 @@
+body {
+    background-color: wheat;
+}
+
+.maincont {
+    margin-top: 5vh;
+}
+
+.cont {
+    background-color: skyblue;
+    padding: 2em;
+    border: 5px solid green;
+    border-radius: 3%;
+}
+
+.spn {
+    font-weight: bold;
+}
